@@ -1,11 +1,10 @@
 # Немножко обо мне
 
-Меня зовут [Федор] (https://ru.wikipedia.org/wiki/Фёдор).
-Мне 33 годика. Играю на Gitаrе. ☺
+Меня зовут [Федор](https://ru.wikipedia.org/wiki/Фёдор).Мне 33 годика. Играю на Gitаrе. ☺
 
 ## Вот такая гитара у меня:
 
-![esp ltd f-100 fm](https://static.bax-shop.es/image/product/49525/164456/f46c223b/410x410/ltd_f-100fm_stblk_see_thru_black_001.jpg)
+![esp ltd f-100 fm](https://prnt.sc/7fraL3M8P5N4)
 
 Играю в основном классический металл, думаю джаз познать, но это потом как нибудь.
 
@@ -13,7 +12,7 @@
 - Blask sabbath
 - Dokken
 - Slayer
-- Flotsam & Jetsam
+- Flotsam & Jetsam  
 _На самом деле мне почти весь метал нравится, просто нужно испотьзовати возможности маркдаун, вот и расписываю_
 
 ### Еще мне нравится:
